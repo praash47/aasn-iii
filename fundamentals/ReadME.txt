@@ -15,7 +15,7 @@ to have enough knowledge to move further.
 
 I plan to maintain scorecard points to each of you on the basis of how well you
 have completed this tutorial, you can see each of your score here:
-			<link>
+			http://bit.ly/gitxslx
 
 I try to be as fair as possible. There should be a competition intact first of all
 between all of us in the learning phase.
