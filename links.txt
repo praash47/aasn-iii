@@ -1,0 +1,18 @@
+1. https://patents.google.com/patent/US20130093895A1/en
+2. https://patents.google.com/patent/US5948038A/en
+3. https://patents.google.com/patent/US20120287278A1/en
+4. https://patents.google.com/patent/US20060055561A1/en
+5. https://patents.google.com/patent/US6950789B2/en
+6. https://patents.google.com/patent/US7986339B2/en
+7. https://patents.google.com/patent/US7616293B2/en
+8. https://s3.amazonaws.com/academia.edu.documents/33173144/IJETR021143.pdf?response-content-disposition=inline%3B%20filename%3DInternational_Journal_of_Engineering_and.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200102T121342Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d9ab584c88671fa78e41bd85b265e38a4daa87d50e764830435762915829731f9
+9. https://www.researchgate.net/profile/K-L_Du/publication/271545712_A_video-based_traffic_violation_detection_system/links/54d2248c0cf28370d0e1c446/A-video-based-traffic-violation-detection-system.pdf
+10. https://www.researchgate.net/profile/Peter_With/publication/224711197_High-Level_Traffic-Violation_Detection_for_Embedded_Traffic_Analysis/links/00b7d52ef496db6def000000/High-Level-Traffic-Violation-Detection-for-Embedded-Traffic-Analysis.pdf
+11. https://www.researchgate.net/profile/Aaron_Uy/publication/292365454_Machine_Vision_for_Traffic_Violation_Detection_System_through_Genetic_Algorithm/links/56ad97cc08ae19a385141993/Machine-Vision-for-Traffic-Violation-Detection-System-through-Genetic-Algorithm.pdf
+12 https://patents.google.com/patent/US6546119B2/en
+13. https://patents.google.com/patent/US7433764B2/en
+14. https://pdfs.semanticscholar.org/6aac/654cb430485ec72e1db1b9e13f19f296e28a.pdf
+
+LR:
+https://libguides.uwf.edu/ld.php?content_id=42292575
+https://libguides.uwf.edu/ld.php?content_id=42292186
