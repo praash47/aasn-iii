@@ -1,6 +1,6 @@
 A. Keep college logo in cover page of the proposal. (TICK)
 B. Use correct formating for roll number (TICK)
-C. Use font size as 12 for body and 16 for heading.
+C. Use font size as 12 for body and 16 for heading. (TICK)
 D. remove text including Mr.Supervisior from acknowledgement as you are yet to be assigned any of them now.
 E. Include Table of Contents, list of abbreviation and list of figures.
 F. Include Abstract
